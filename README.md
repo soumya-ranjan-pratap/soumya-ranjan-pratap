@@ -1,5 +1,5 @@
 ### Hi there, friends!
-I welcome you to my GitHub account👋
+### I welcome you to my GitHub account👋
 
 <!--
 **soumya-ranjan-pratap/soumya-ranjan-pratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
