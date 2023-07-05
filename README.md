@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Snake is eating my contribution
-![snake gif](https://github.com/soumya-ranjan-pratap/soumya-ranjan-pratap/blob/output/github-contribution-grid-snake.gif)
+https://github.com/soumya-ranjan-pratap/soumya-ranjan-pratap/blob/output/github-contribution-grid-snake.gif
