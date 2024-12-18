@@ -4,7 +4,7 @@
 
 [![An image of @soumya123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya123)](https://holopin.io/@soumya123)
 
-<img src="https://github.com/soumya-ranjan-pratap/soumya-ranjan-pratap/blob/main/Hackathon%20Sign(1).jpg?raw=true" alt="Hackathon Signature" width="400" height="300">
+<img src="https://github.com/soumya-ranjan-pratap/soumya-ranjan-pratap/blob/main/Hackathon%20Sign(1).jpg?raw=true" alt="Hackathon Signature" height="350">
 
 
 
