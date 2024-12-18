@@ -4,6 +4,8 @@
 
 [![An image of @soumya123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya123)](https://holopin.io/@soumya123)
 
+![Alt text](URL "Title")
+
 <!--
 **soumya-ranjan-pratap/soumya-ranjan-pratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
