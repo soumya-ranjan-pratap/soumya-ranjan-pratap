@@ -4,7 +4,7 @@
 
 [![An image of @soumya123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumya123)](https://holopin.io/@soumya123)
 
-![Hackathon Signaturetps://raw.githubusercontent.com/soumya-ranjan-pratap/soumya-ranjan-pratap/8c4c2af4138ab1660869fb71eace8b01a1db4cb1/Hackathon%20Sign.jpg")
+![Hackathon Signature](https://raw.githubusercontent.com/soumya-ranjan-pratap/soumya-ranjan-pratap/8c4c2af4138ab1660869fb71eace8b01a1db4cb1/Hackathon%20Sign.jpg")
 
 <!--
 **soumya-ranjan-pratap/soumya-ranjan-pratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
